@@ -1,0 +1,3 @@
+How would you say Hello World in python?
+Like this:
+print("Hello World")
